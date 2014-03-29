@@ -1,0 +1,12 @@
+.invisible { 
+    display:none; 
+  } 
+  
+  ul#lstNames {
+    width:25%;
+    margin-top:1em;
+    border:1px solid fuchsia;
+  }
+  ul#lstNames li{
+    border-top:1px solid #ddd;
+  }
